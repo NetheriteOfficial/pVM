@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pVM", "pVM\pVM.csproj", "{FF97D317-7DA0-48B9-9301-D4A11953A880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pBC Assembler", "pBC Assembler\pBC Assembler.csproj", "{66E7F6AF-BCD7-488D-AF66-982684116F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pVM Shared", "pVM Shared\pVM Shared.csproj", "{20B10BA6-9DAB-4F38-B7DA-6739B0A11787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF97D317-7DA0-48B9-9301-D4A11953A880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF97D317-7DA0-48B9-9301-D4A11953A880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF97D317-7DA0-48B9-9301-D4A11953A880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF97D317-7DA0-48B9-9301-D4A11953A880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E7F6AF-BCD7-488D-AF66-982684116F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E7F6AF-BCD7-488D-AF66-982684116F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E7F6AF-BCD7-488D-AF66-982684116F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E7F6AF-BCD7-488D-AF66-982684116F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B10BA6-9DAB-4F38-B7DA-6739B0A11787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B10BA6-9DAB-4F38-B7DA-6739B0A11787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B10BA6-9DAB-4F38-B7DA-6739B0A11787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B10BA6-9DAB-4F38-B7DA-6739B0A11787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFC54505-87C9-48B3-9529-6EFC008E903B}
+	EndGlobalSection
+EndGlobal
