@@ -4,8 +4,8 @@
     <OutputType>Library</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-	<RootNamespace>pVM</RootNamespace>
-	<Nullable>enable</Nullable>
+    <RootNamespace>pVM</RootNamespace>
+    <Nullable>enable</Nullable>
     <Platforms>AnyCPU</Platforms>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>pVM</Title>
