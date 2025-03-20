@@ -1,0 +1,1 @@
+Register 0 in current version of the Move() function is just pushing onto the stack
