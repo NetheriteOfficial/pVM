@@ -7,6 +7,12 @@
 	<RootNamespace>pVM</RootNamespace>
 	<Nullable>enable</Nullable>
     <Platforms>AnyCPU</Platforms>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>pVM</Title>
+    <Authors>NetheriteOfficial</Authors>
+    <Description>A basic VM</Description>
+    <RepositoryUrl>https://github.com/NetheriteOfficial/pVM/tree/main</RepositoryUrl>
+    <PackageTags>vm, net80</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

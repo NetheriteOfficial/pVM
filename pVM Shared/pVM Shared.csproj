@@ -7,6 +7,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Platforms>AnyCPU</Platforms>
+    <PackageId>pVM.Shared</PackageId>
+    <Title>pVM Shared</Title>
+    <Authors>NetheriteOfficial</Authors>
+    <RepositoryUrl>https://github.com/NetheriteOfficial/pVM/tree/main</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
