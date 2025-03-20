@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pBC Assembler", "pBC Assemb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pVM Shared", "pVM Shared\pVM Shared.csproj", "{20B10BA6-9DAB-4F38-B7DA-6739B0A11787}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pVM Tests", "pVM Tests\pVM Tests.csproj", "{BA06B89B-185A-4C53-ACFB-4CCEDCA7BFF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{20B10BA6-9DAB-4F38-B7DA-6739B0A11787}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20B10BA6-9DAB-4F38-B7DA-6739B0A11787}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20B10BA6-9DAB-4F38-B7DA-6739B0A11787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA06B89B-185A-4C53-ACFB-4CCEDCA7BFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA06B89B-185A-4C53-ACFB-4CCEDCA7BFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA06B89B-185A-4C53-ACFB-4CCEDCA7BFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA06B89B-185A-4C53-ACFB-4CCEDCA7BFF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

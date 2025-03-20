@@ -6,6 +6,7 @@
     <RootNamespace>pVM.Shared</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Platforms>AnyCPU</Platforms>
   </PropertyGroup>
 
 </Project>

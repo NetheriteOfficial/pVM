@@ -3,14 +3,14 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>pBC_Assembler</RootNamespace>
+    <RootNamespace>pVM_Tests</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Platforms>AnyCPU</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\pVM Shared\pVM Shared.csproj" />
+    <ProjectReference Include="..\pVM\pVM.csproj" />
   </ItemGroup>
 
 </Project>

@@ -29,13 +29,13 @@ vm.RegisterGameFunc(0, () =>
 vm.RegisterGameFunc(1, () =>
 {
     health = vm.stack.Pop();
-    if(health <= 0)
+    if (health <= 0)
     {
         health = 0;
         vm.zero = true;
     }
     Console.WriteLine("Current Health: " + health);
-}); 
+});
 
 vm.Run();
 
